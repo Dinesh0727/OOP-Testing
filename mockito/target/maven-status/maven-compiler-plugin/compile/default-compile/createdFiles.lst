@@ -1,0 +1,5 @@
+com\testing\mockito\OrderProcessor.class
+com\testing\mockito\InventoryManager.class
+com\testing\mockito\App.class
+com\testing\mockito\Book.class
+com\testing\mockito\Order.class
